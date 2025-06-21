@@ -13,7 +13,10 @@
         />
       </div>
 
-      <div v-if="productStore.products.length === 0" class="text-center text-gray-600 mt-10">
+      <div
+        v-if="productStore.products.length === 0"
+        class="text-center text-gray-600 mt-10"
+      >
         <p>Produk belum tersedia untuk saat ini.</p>
       </div>
     </div>
@@ -31,3 +34,9 @@ onMounted(() => {
   productStore.fetchProducts()
 })
 </script>
+
+<style scoped>
+section {
+  scroll-margin-top: 100px;
+}
+</style>

@@ -16,18 +16,43 @@
           <li>Garansi pemasangan hingga 1 tahun</li>
           <li>Respon cepat dan layanan 24 jam</li>
           <li>Harga transparan, tanpa biaya tersembunyi</li>
+          <li>Dukungan konsultasi & survei gratis</li>
+          <li>Berbagai pilihan merek ternama dan original</li>
         </ul>
       </div>
       <div>
         <h3 class="text-xl font-semibold text-blue-700 mb-3">🎯 Visi & Misi</h3>
-        <p>
+        <p class="mb-3">
           Kami percaya bahwa kenyamanan ruangan Anda dimulai dari udara yang berkualitas. NexAC hadir untuk menciptakan lingkungan
           yang sejuk, bersih, dan sehat melalui teknologi AC terbaik dan layanan pelanggan yang luar biasa.
+        </p>
+        <p>
+          Misi kami adalah memberikan layanan terbaik yang mengedepankan profesionalitas, kecepatan, dan kualitas. Kami ingin menjadi
+          mitra terpercaya bagi setiap rumah dan bisnis di Indonesia dalam urusan iklim ruangan.
         </p>
       </div>
     </div>
 
-    <div class="mt-16 text-center">
+    <!-- Nilai Perusahaan -->
+    <div class="mt-16 max-w-6xl mx-auto text-center text-gray-700">
+      <h3 class="text-2xl font-bold text-blue-800 mb-6">💼 Nilai Utama Kami</h3>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="bg-gray-50 border rounded-lg p-6 shadow hover:shadow-md transition">
+          <h4 class="text-lg font-semibold text-blue-700 mb-2">Integritas</h4>
+          <p class="text-sm">Kami menjunjung tinggi kejujuran dan keterbukaan dalam setiap layanan.</p>
+        </div>
+        <div class="bg-gray-50 border rounded-lg p-6 shadow hover:shadow-md transition">
+          <h4 class="text-lg font-semibold text-blue-700 mb-2">Inovasi</h4>
+          <p class="text-sm">Terus berinovasi untuk menghadirkan solusi AC yang modern dan efisien.</p>
+        </div>
+        <div class="bg-gray-50 border rounded-lg p-6 shadow hover:shadow-md transition">
+          <h4 class="text-lg font-semibold text-blue-700 mb-2">Kepuasan Pelanggan</h4>
+          <p class="text-sm">Memberikan pengalaman terbaik dari awal hingga akhir layanan.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-20 text-center">
       <h4 class="text-xl font-semibold text-gray-800 mb-2">📞 Hubungi Kami</h4>
       <p class="text-gray-600">Siap melayani Anda kapan pun dibutuhkan. Konsultasikan kebutuhan AC Anda sekarang juga.</p>
       <a
